@@ -44,7 +44,43 @@
         "gpa": "3.9/4.0",
         "activities": ["AI Research Lab", "Robotics Club"]
       }],
-
+    "profiles": [
+            {
+                "network": "linkedin",
+                "username": "aayush-sharma-a44062299",
+                "url": "https://www.linkedin.com/in/aayush-sharma-a44062299/"
+            },
+            {
+                "network": "twitter",
+                "username": "zxc",
+                "url": "https://www.twitter.com/sadanandpai/"
+            },
+            {
+                "network": "github",
+                "username": "sadanandpai",
+                "url": "https://github.com/sadanandpai/"
+            },
+            {
+                "network": "hackerrank",
+                "username": "paicube",
+                "url": "https://www.hackerrank.com/paicube/"
+            },
+            {
+                "network": "hackerearth",
+                "username": "sadanandpai",
+                "url": "https://www.hackerearth.com/sadanandpai/"
+            },
+            {
+                "network": "codechef",
+                "username": "sadanandpai",
+                "url": "https://www.codechef.com/sadanandpai/"
+            },
+            {
+                "network": "leetcode",
+                "username": "paicube",
+                "url": "https://leetcode.com/paicube/"
+            }
+        ],
     "skills": [
       {
         "name": "Programming Languages",
