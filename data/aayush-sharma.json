@@ -122,6 +122,14 @@
         "expirationDate": null,
         "credentialUrl": "https://www.certificationauthority.com/certificates/aayush",
         "image": "https://images.unsplash.com/photo-1647166545674-ce28ce93bdca?w=800"
+      },
+      {
+        "name": "Data Scientist",
+        "issuingOrganization": "Certification Authority",
+        "issueDate": "2022-05",
+        "expirationDate": null,
+        "credentialUrl": "https://www.certificationauthority.com/certificates/aayush",
+        "image": "https://images.unsplash.com/photo-1647166545674-ce28ce93bdca?w=800"
       }
     ]
   }
