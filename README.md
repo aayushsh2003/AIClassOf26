@@ -1,2 +1,0 @@
-# AIClassOf26
-testing
